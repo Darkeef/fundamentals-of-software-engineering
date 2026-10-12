@@ -1,1 +1,3 @@
-# fundamentals-of-software-engineering
+## Student Info
+- Ініціали: Павленко В.О.
+- Група: 372
